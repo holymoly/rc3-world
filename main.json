@@ -83,24 +83,69 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":16,
          "firstgid":1,
-         "source":"dk_garden.tsx"
+         "image":"tiles_png\/structures\/dk_garden.png",
+         "imageheight":384,
+         "imagewidth":512,
+         "margin":0,
+         "name":"dk_garden",
+         "spacing":0,
+         "tilecount":192,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":193,
-         "source":"dk_space_station.tsx"
+         "image":"tiles_png\/inventory\/dk_space_station.png",
+         "imageheight":64,
+         "imagewidth":512,
+         "margin":0,
+         "name":"dk_space_station",
+         "spacing":0,
+         "tilecount":32,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":225,
-         "source":"dk_transports.tsx"
+         "image":"tiles_png\/inventory\/dk_transports.png",
+         "imageheight":96,
+         "imagewidth":512,
+         "margin":0,
+         "name":"dk_transports",
+         "spacing":0,
+         "tilecount":48,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":273,
-         "source":"rc3-mullana-functionary.tsx"
+         "image":"tiles_png\/structures\/rc3-mullana-functionary.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-functionary",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":529,
-         "source":"tiles_png\/structures\/garden.tsx"
+         "image":"tiles_png\/structures\/garden.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"garden",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
