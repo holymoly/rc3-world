@@ -3973,7 +3973,7 @@
  </tile>
  <tile id="1412">
   <properties>
-   <property name="collides" type="bool" value="true"/>
+   <property name="collides" type="bool" value="false"/>
   </properties>
  </tile>
  <tile id="1413">
@@ -5280,5 +5280,35 @@
   <properties>
    <property name="collides" type="bool" value="true"/>
   </properties>
+ </tile>
+ <tile id="1850">
+  <animation>
+   <frame tileid="1850" duration="1500"/>
+   <frame tileid="1851" duration="1500"/>
+  </animation>
+ </tile>
+ <tile id="1863">
+  <animation>
+   <frame tileid="1863" duration="1000"/>
+   <frame tileid="1884" duration="500"/>
+  </animation>
+ </tile>
+ <tile id="1864">
+  <animation>
+   <frame tileid="1864" duration="500"/>
+   <frame tileid="1849" duration="1000"/>
+  </animation>
+ </tile>
+ <tile id="1866">
+  <animation>
+   <frame tileid="1865" duration="1500"/>
+   <frame tileid="1866" duration="1500"/>
+  </animation>
+ </tile>
+ <tile id="1877">
+  <animation>
+   <frame tileid="1878" duration="1000"/>
+   <frame tileid="1877" duration="500"/>
+  </animation>
  </tile>
 </tileset>
