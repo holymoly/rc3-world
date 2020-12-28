@@ -44,7 +44,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":""
+                 "value":"erfas-south.json#startSouth"
                 }],
          "type":"tilelayer",
          "visible":true,
