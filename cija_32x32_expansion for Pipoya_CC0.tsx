@@ -3900,6 +3900,10 @@
   <properties>
    <property name="collides" type="bool" value="true"/>
   </properties>
+  <animation>
+   <frame tileid="1925" duration="1500"/>
+   <frame tileid="1898" duration="1500"/>
+  </animation>
  </tile>
  <tile id="1615">
   <properties>
@@ -4484,6 +4488,11 @@
   <animation>
    <frame tileid="1878" duration="1000"/>
    <frame tileid="1877" duration="500"/>
+  </animation>
+ </tile>
+ <tile id="1925">
+  <animation>
+   <frame tileid="1925" duration="100"/>
   </animation>
  </tile>
 </tileset>
