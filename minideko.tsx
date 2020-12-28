@@ -11,4 +11,16 @@
    <frame tileid="40" duration="450"/>
   </animation>
  </tile>
+ <tile id="69">
+  <animation>
+   <frame tileid="69" duration="1500"/>
+   <frame tileid="49" duration="1500"/>
+  </animation>
+ </tile>
+ <tile id="81">
+  <animation>
+   <frame tileid="49" duration="1500"/>
+   <frame tileid="81" duration="1500"/>
+  </animation>
+ </tile>
 </tileset>
