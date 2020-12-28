@@ -44,7 +44,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"erfas-south.json#startSouth"
+                 "value":"<lobby>\/maps\/erfas-south.json#start_ztl"
                 }],
          "type":"tilelayer",
          "visible":true,
