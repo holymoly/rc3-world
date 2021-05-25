@@ -224,15 +224,32 @@
          "draworder":"topdown",
          "id":6,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":19,
+                 "id":6,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"v1.1",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":32.5,
+                 "x":2.5,
+                 "y":2.5
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
         }],
- "nextlayerid":18,
- "nextobjectid":6,
+ "nextlayerid":19,
+ "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
