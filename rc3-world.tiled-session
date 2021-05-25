@@ -14,11 +14,14 @@
         },
         "main.json": {
             "scale": 2,
-            "selectedLayer": 6,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 485.5,
-                "y": 703
+                "x": 654.25,
+                "y": 128
             }
+        },
+        "main.json#03_latop_sticker_32x32t": {
+            "scaleInDock": 1
         },
         "main.json#AceSet-Hospital": {
             "scaleInDock": 1,
@@ -45,6 +48,15 @@
         "main.json#garden": {
             "scaleInDock": 1
         },
+        "main.json#kaktus": {
+            "scaleInDock": 1
+        },
+        "main.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "main.json#minideko": {
+            "scaleInDock": 1
+        },
         "main.json#official_rockets": {
             "scaleInDock": 1
         },
@@ -54,7 +66,13 @@
         "main.json#rc3-mullana-functionary": {
             "scaleInDock": 1
         },
+        "main.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
         "main.json#rc3_style_set": {
+            "scaleInDock": 1
+        },
+        "main.json#text": {
             "scaleInDock": 1
         },
         "main.json#tilesets_deviant_milkian_1": {
