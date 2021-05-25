@@ -86,7 +86,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"whisky"
+                 "value":"shared whisky"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -212,7 +212,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<global>\/\/raw.githubusercontent.com\/ZTL-Space\/rc3-world\/master\/main.json}"
+                 "value":"{<global>}"
                 }],
          "type":"tilelayer",
          "visible":true,
