@@ -235,15 +235,17 @@
                  "text":
                     {
                      "color":"#ffffff",
-                     "text":"v1.1",
+                     "text":"v1.2",
                      "wrap":true
                     },
                  "type":"",
-                 "visible":false,
+                 "visible":true,
                  "width":32.5,
-                 "x":2.5,
-                 "y":2.5
+                 "x":575,
+                 "y":3.5
                 }],
+         "offsetx":0.5,
+         "offsety":1,
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
