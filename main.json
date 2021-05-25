@@ -170,7 +170,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared whisky"
+                 "value":"whisky"
                 }],
          "type":"tilelayer",
          "visible":true,
