@@ -10,6 +10,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "main.json": {
@@ -71,6 +72,9 @@
         },
         "main.json#rc3_style_set": {
             "scaleInDock": 1
+        },
+        "main.json#space": {
+            "scaleInEditor": 1
         },
         "main.json#text": {
             "scaleInDock": 1
@@ -182,6 +186,7 @@
             "scaleInDock": 1
         }
     },
+    "last.imagePath": "D:/Projekte/Space/rc3-world/tiles_png",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
     "openFiles": [
         "main.json"
