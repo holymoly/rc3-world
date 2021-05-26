@@ -14,11 +14,11 @@
             "scaleInEditor": 1
         },
         "main.json": {
-            "scale": 1.5,
-            "selectedLayer": 2,
+            "scale": 1,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 698.3333333333333,
-                "y": 1252.6666666666665
+                "x": 959.5,
+                "y": 1063
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -194,6 +194,7 @@
         "main.json"
     ],
     "project": "rc3-world.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "main.json",
         "medium.json",
