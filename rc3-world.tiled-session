@@ -14,11 +14,11 @@
             "scaleInEditor": 1
         },
         "main.json": {
-            "scale": 2,
-            "selectedLayer": 10,
+            "scale": 1.5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 654.25,
-                "y": 128
+                "x": 698.3333333333333,
+                "y": 1252.6666666666665
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -59,7 +59,8 @@
             "scaleInDock": 1
         },
         "main.json#official_rockets": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#rc3-mullana-floor-wall": {
             "scaleInDock": 1
@@ -74,6 +75,7 @@
             "scaleInDock": 1
         },
         "main.json#space": {
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "main.json#text": {
