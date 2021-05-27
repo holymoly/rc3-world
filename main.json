@@ -214,7 +214,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.js"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
