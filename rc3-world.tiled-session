@@ -14,11 +14,11 @@
             "scaleInEditor": 1
         },
         "main.json": {
-            "scale": 1,
+            "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 959.5,
-                "y": 1063
+                "x": 842.25,
+                "y": 571
             }
         },
         "main.json#03_latop_sticker_32x32t": {
