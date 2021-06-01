@@ -11,14 +11,14 @@
     "fileStates": {
         "": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 0.5
         },
         "main.json": {
-            "scale": 1,
+            "scale": 3,
             "selectedLayer": 15,
             "viewCenter": {
-                "x": 809,
-                "y": 581.5
+                "x": 435,
+                "y": 534
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -32,8 +32,8 @@
             "scaleInDock": 1
         },
         "main.json#Room_Builder_32x32": {
-            "scaleInDock": 3,
-            "scaleInEditor": 0.5
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
         },
         "main.json#cija_32x32_expansion for Pipoya_CC0": {
             "scaleInDock": 1
@@ -83,7 +83,7 @@
             "scaleInDock": 1
         },
         "main.json#space": {
-            "scaleInDock": 1,
+            "scaleInDock": 2,
             "scaleInEditor": 1
         },
         "main.json#text": {
