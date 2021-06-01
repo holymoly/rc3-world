@@ -14,11 +14,11 @@
             "scaleInEditor": 1
         },
         "main.json": {
-            "scale": 2,
-            "selectedLayer": 3,
+            "scale": 1,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 535,
-                "y": 685.75
+                "x": 809,
+                "y": 581.5
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -32,7 +32,8 @@
             "scaleInDock": 1
         },
         "main.json#Room_Builder_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 3,
+            "scaleInEditor": 0.5
         },
         "main.json#cija_32x32_expansion for Pipoya_CC0": {
             "scaleInDock": 1
