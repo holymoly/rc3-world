@@ -17,8 +17,8 @@
             "scale": 2,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 842.25,
-                "y": 571
+                "x": 535,
+                "y": 685.75
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -27,6 +27,12 @@
         "main.json#AceSet-Hospital": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "main.json#Interiors_32x32": {
+            "scaleInDock": 1
+        },
+        "main.json#Room_Builder_32x32": {
+            "scaleInDock": 1
         },
         "main.json#cija_32x32_expansion for Pipoya_CC0": {
             "scaleInDock": 1
@@ -44,7 +50,8 @@
             "scaleInDock": 1
         },
         "main.json#gallery_delorean_dmc12": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#garden": {
             "scaleInDock": 1
@@ -188,7 +195,7 @@
             "scaleInDock": 1
         }
     },
-    "last.imagePath": "D:/Projekte/Space/rc3-world/tiles_png",
+    "last.imagePath": "/home/banshee/Projekte/ztl_space/rc3-world/tiles_png/ressource_pack",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
     "openFiles": [
         "main.json"
