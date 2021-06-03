@@ -11,14 +11,14 @@
     "fileStates": {
         "": {
             "scaleInDock": 1,
-            "scaleInEditor": 0.5
+            "scaleInEditor": 4
         },
         "main.json": {
-            "scale": 11,
-            "selectedLayer": 3,
+            "scale": 2,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 723.4545454545455,
-                "y": 839.909090909091
+                "x": 939,
+                "y": 855
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -29,7 +29,7 @@
             "scaleInEditor": 1
         },
         "main.json#Interiors_32x32": {
-            "scaleInDock": 1
+            "scaleInDock": 0.75
         },
         "main.json#Room_Builder_32x32": {
             "scaleInDock": 1,
@@ -85,7 +85,7 @@
         },
         "main.json#space": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 4
         },
         "main.json#text": {
             "scaleInDock": 1
