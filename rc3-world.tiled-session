@@ -14,7 +14,7 @@
             "scaleInEditor": 3
         },
         "Interiors_32x32.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "Room_Builder_32x32.tsx": {

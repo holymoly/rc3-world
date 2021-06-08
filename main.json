@@ -15099,8 +15099,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":4975,
-         "source":"Interiors_32x32.tsx"
+         "image":"tiles_png\/ressource_pack\/Interiors_32x32.png",
+         "imageheight":26752,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_32x32",
+         "spacing":0,
+         "tilecount":13376,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":67,
