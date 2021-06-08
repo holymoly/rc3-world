@@ -230,7 +230,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exit",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"small.json"
                 }],
