@@ -61,7 +61,7 @@
         },
         "main.json#gallery_delorean_dmc12": {
             "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInEditor": 4
         },
         "main.json#garden": {
             "scaleInDock": 1
@@ -216,6 +216,7 @@
     "property.type": "bool",
     "recentFiles": [
         "main.json",
+        "Interiors_32x32.tsx",
         "medium.json",
         "small.json"
     ],
