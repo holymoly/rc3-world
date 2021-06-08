@@ -18,7 +18,7 @@
             "selectedLayer": 7,
             "viewCenter": {
                 "x": 939,
-                "y": 855
+                "y": 1227
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -33,7 +33,7 @@
         },
         "main.json#Room_Builder_32x32": {
             "scaleInDock": 1,
-            "scaleInEditor": 1.5
+            "scaleInEditor": 0.33
         },
         "main.json#cija_32x32_expansion for Pipoya_CC0": {
             "scaleInDock": 1
@@ -91,7 +91,8 @@
             "scaleInDock": 1
         },
         "main.json#tilesets_deviant_milkian_1": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 2
         },
         "medium.json": {
             "scale": 1.2508333333333332,
