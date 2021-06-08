@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1,
-            "selectedLayer": 7,
+            "scale": 3,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 717,
-                "y": 813
+                "x": 671,
+                "y": 1235
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -87,13 +87,13 @@
             "scaleInDock": 1
         },
         "main.json#rc3-mullana-neon-signs": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "main.json#rc3_style_set": {
             "scaleInDock": 1
         },
         "main.json#space": {
-            "scaleInDock": 1.5,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "main.json#text": {
@@ -214,10 +214,10 @@
         "main.json"
     ],
     "project": "rc3-world.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
-        "Interiors_32x32.tsx",
         "main.json",
+        "Interiors_32x32.tsx",
         "medium.json",
         "small.json"
     ],
