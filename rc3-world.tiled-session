@@ -10,15 +10,22 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 3
+        },
+        "Interiors_32x32.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 4
+            "scaleInEditor": 1
+        },
+        "Room_Builder_32x32.tsx": {
+            "scaleInDock": 1
         },
         "main.json": {
-            "scale": 2,
-            "selectedLayer": 7,
+            "scale": 1.5,
+            "selectedLayer": 11,
             "viewCenter": {
-                "x": 939,
-                "y": 1227
+                "x": 906.6666666666667,
+                "y": 580
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -29,14 +36,16 @@
             "scaleInEditor": 1
         },
         "main.json#Interiors_32x32": {
-            "scaleInDock": 0.75
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
         },
         "main.json#Room_Builder_32x32": {
             "scaleInDock": 1,
             "scaleInEditor": 0.33
         },
         "main.json#cija_32x32_expansion for Pipoya_CC0": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 4
         },
         "main.json#cija_32x32_screen_CC0": {
             "scaleInDock": 1
@@ -85,7 +94,7 @@
         },
         "main.json#space": {
             "scaleInDock": 1,
-            "scaleInEditor": 4
+            "scaleInEditor": 1
         },
         "main.json#text": {
             "scaleInDock": 1
