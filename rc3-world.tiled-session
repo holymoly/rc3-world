@@ -11,7 +11,7 @@
     "fileStates": {
         "": {
             "scaleInDock": 0.75,
-            "scaleInEditor": 3
+            "scaleInEditor": 4
         },
         "Interiors_32x32.tsx": {
             "scaleInDock": 0.75,
@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 3,
-            "selectedLayer": 0,
+            "scale": 4,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 671,
-                "y": 1235
+                "x": 748.25,
+                "y": 1225.75
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -207,6 +207,7 @@
             "scaleInDock": 1
         }
     },
+    "frame.defaultDuration": 2000,
     "last.externalTilesetPath": "D:/Projekte/Space/rc3-world",
     "last.imagePath": "D:/Projekte/Space/rc3-world/tiles_png/ressource_pack",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
