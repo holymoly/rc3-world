@@ -207,7 +207,7 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 2000,
+    "frame.defaultDuration": 1000,
     "last.externalTilesetPath": "D:/Projekte/Space/rc3-world",
     "last.imagePath": "D:/Projekte/Space/rc3-world/tiles_png/ressource_pack",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
