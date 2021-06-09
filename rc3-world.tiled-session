@@ -215,7 +215,7 @@
         "main.json"
     ],
     "project": "rc3-world.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "main.json",
         "Interiors_32x32.tsx",
