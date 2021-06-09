@@ -11,7 +11,7 @@
     "fileStates": {
         "": {
             "scaleInDock": 0.75,
-            "scaleInEditor": 4
+            "scaleInEditor": 5.5
         },
         "Interiors_32x32.tsx": {
             "scaleInDock": 0.75,
@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 4,
-            "selectedLayer": 17,
+            "scale": 5.5,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 748.25,
-                "y": 1225.75
+                "x": 857.8181818181818,
+                "y": 1246.1818181818182
             }
         },
         "main.json#03_latop_sticker_32x32t": {
