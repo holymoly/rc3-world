@@ -11,7 +11,7 @@
     "fileStates": {
         "": {
             "scaleInDock": 0.75,
-            "scaleInEditor": 2
+            "scaleInEditor": 1
         },
         "Interiors_32x32.tsx": {
             "scaleInDock": 0.75,
@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1.5,
-            "selectedLayer": 12,
+            "scale": 4,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 635.3333333333333,
-                "y": 322.6666666666667
+                "x": 1023.75,
+                "y": 182.75
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -93,7 +93,7 @@
             "scaleInDock": 1
         },
         "main.json#space": {
-            "scaleInDock": 1,
+            "scaleInDock": 4,
             "scaleInEditor": 1
         },
         "main.json#text": {
