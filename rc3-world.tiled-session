@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 2,
-            "selectedLayer": 22,
+            "scale": 5.5,
+            "selectedLayer": 15,
             "viewCenter": {
-                "x": 906.5,
-                "y": 288.5
+                "x": 334.9090909090909,
+                "y": 596.5454545454545
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -77,7 +77,7 @@
             "scaleInDock": 1
         },
         "main.json#minideko": {
-            "scaleInDock": 1
+            "scaleInDock": 1.5
         },
         "main.json#official_rockets": {
             "scaleInDock": 1,
@@ -220,10 +220,10 @@
     "project": "rc3-world.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "small.json",
         "main.json",
         "Interiors_32x32.tsx",
-        "medium.json",
-        "small.json"
+        "medium.json"
     ],
     "tileset.embedInMap": true
 }
