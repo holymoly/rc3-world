@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 8,
-            "selectedLayer": 22,
+            "scale": 1.5,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 708.5,
-                "y": 88.875
+                "x": 1146.6666666666665,
+                "y": 188
             }
         },
         "main.json#03_latop_sticker_32x32t": {
