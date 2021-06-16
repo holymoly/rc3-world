@@ -11,7 +11,7 @@
     "fileStates": {
         "": {
             "scaleInDock": 0.75,
-            "scaleInEditor": 1
+            "scaleInEditor": 5.5
         },
         "Interiors_32x32.tsx": {
             "scaleInDock": 0.75,
@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 4,
-            "selectedLayer": 8,
+            "scale": 8,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1023.75,
-                "y": 182.75
+                "x": 972.875,
+                "y": 133.875
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -40,7 +40,7 @@
             "scaleInEditor": 1
         },
         "main.json#Room_Builder_32x32": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 0.5,
             "scaleInEditor": 2
         },
         "main.json#cija_32x32_expansion for Pipoya_CC0": {
@@ -93,7 +93,7 @@
             "scaleInDock": 1
         },
         "main.json#space": {
-            "scaleInDock": 4,
+            "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
         "main.json#text": {
@@ -207,7 +207,7 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 500,
+    "frame.defaultDuration": 200,
     "last.externalTilesetPath": "D:/Projekte/Space/rc3-world",
     "last.imagePath": "D:/Projekte/Space/rc3-world/tiles_png/ressource_pack",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
