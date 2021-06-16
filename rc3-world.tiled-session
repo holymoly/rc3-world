@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "main.json",
+    "activeFile": "",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
     ],
@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1.5,
+            "scale": 3,
             "selectedLayer": 18,
             "viewCenter": {
-                "x": 1146.6666666666665,
-                "y": 188
+                "x": 1122,
+                "y": 174
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -97,7 +97,7 @@
         },
         "main.json#space": {
             "scaleInDock": 2,
-            "scaleInEditor": 4
+            "scaleInEditor": 3
         },
         "main.json#text": {
             "scaleInDock": 1
@@ -218,7 +218,7 @@
         "main.json"
     ],
     "project": "rc3-world.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
         "main.json",
         "small.json",
