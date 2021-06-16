@@ -209,13 +209,13 @@
     },
     "frame.defaultDuration": 200,
     "last.externalTilesetPath": "D:/Projekte/Space/rc3-world",
-    "last.imagePath": "D:/Projekte/Space/rc3-world/tiles_png/ressource_pack",
+    "last.imagePath": "D:/Projekte/Space/rc3-world/tiles_png",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
     "openFiles": [
         "main.json"
     ],
     "project": "rc3-world.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "main.json",
         "Interiors_32x32.tsx",
