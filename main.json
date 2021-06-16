@@ -158,7 +158,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"kannessein.mp3"
+                 "value":"mp3\/kannessein.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
