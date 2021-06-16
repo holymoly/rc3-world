@@ -172,6 +172,12 @@
          "id":2,
          "name":"start",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"\/mp3\/daisserwiedder.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":45,
