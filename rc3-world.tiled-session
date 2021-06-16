@@ -11,7 +11,7 @@
     "fileStates": {
         "": {
             "scaleInDock": 0.75,
-            "scaleInEditor": 4
+            "scaleInEditor": 2
         },
         "Interiors_32x32.tsx": {
             "scaleInDock": 0.75,
@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 5.5,
-            "selectedLayer": 15,
+            "scale": 8,
+            "selectedLayer": 22,
             "viewCenter": {
-                "x": 334.9090909090909,
-                "y": 596.5454545454545
+                "x": 708.5,
+                "y": 88.875
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -96,8 +96,8 @@
             "scaleInDock": 1
         },
         "main.json#space": {
-            "scaleInDock": 0.75,
-            "scaleInEditor": 1
+            "scaleInDock": 2,
+            "scaleInEditor": 4
         },
         "main.json#text": {
             "scaleInDock": 1
@@ -220,8 +220,8 @@
     "project": "rc3-world.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "small.json",
         "main.json",
+        "small.json",
         "Interiors_32x32.tsx",
         "medium.json"
     ],
