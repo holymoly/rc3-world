@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 8,
-            "selectedLayer": 12,
+            "scale": 1,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 972.875,
-                "y": 133.875
+                "x": 844,
+                "y": 632
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -39,12 +39,15 @@
             "scaleInDock": 0.75,
             "scaleInEditor": 1
         },
+        "main.json#Lava_tiles": {
+            "scaleInDock": 1.5
+        },
         "main.json#Room_Builder_32x32": {
             "scaleInDock": 0.5,
             "scaleInEditor": 2
         },
         "main.json#cija_32x32_expansion for Pipoya_CC0": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 1.5,
             "scaleInEditor": 4
         },
         "main.json#cija_32x32_screen_CC0": {
@@ -155,9 +158,9 @@
         },
         "small.json": {
             "scale": 1.87625,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 319.78680879413724,
+                "x": 319.7868087941373,
                 "y": 319.78680879413724
             }
         },
