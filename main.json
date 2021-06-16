@@ -399,23 +399,6 @@
                  "width":32.5,
                  "x":575,
                  "y":3.5
-                }, 
-                {
-                 "height":53.75,
-                 "id":7,
-                 "name":"",
-                 "rotation":0,
-                 "text":
-                    {
-                     "text":"Kein Space f\u00fcr Nazis!",
-                     "valign":"center",
-                     "wrap":true
-                    },
-                 "type":"",
-                 "visible":true,
-                 "width":131.875,
-                 "x":676.125,
-                 "y":55.625
                 }],
          "offsetx":0.5,
          "offsety":1,
