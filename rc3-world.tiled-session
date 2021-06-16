@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "main.json",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
     ],
@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 3,
-            "selectedLayer": 18,
+            "scale": 5.5,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 1122,
-                "y": 174
+                "x": 725.3636363636364,
+                "y": 1202.1818181818182
             }
         },
         "main.json#03_latop_sticker_32x32t": {
