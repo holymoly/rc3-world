@@ -429,7 +429,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"small.json#start"
+                 "value":"small.json"
                 }],
          "type":"tilelayer",
          "visible":true,
