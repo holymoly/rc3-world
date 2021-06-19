@@ -22,10 +22,10 @@
         },
         "main.json": {
             "scale": 0.7548,
-            "selectedLayer": 16,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 476.9475357710651,
-                "y": 918.1240063593004
+                "x": 503.44462109167995,
+                "y": 894.2766295707472
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -107,11 +107,11 @@
             "scaleInEditor": 2
         },
         "medium.json": {
-            "scale": 1.2508333333333332,
-            "selectedLayer": 11,
+            "scale": 0.6675,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 403.73084610259826,
-                "y": 330.97934710193204
+                "x": 465.9176029962547,
+                "y": 519.8501872659176
             }
         },
         "medium.json#08_right_mate_bottles_flora_full": {
@@ -158,10 +158,10 @@
         },
         "small.json": {
             "scale": 1.23,
-            "selectedLayer": 2,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1082.9268292682927,
-                "y": 399.18699186991864
+                "x": 1094.3089430894308,
+                "y": 366.6666666666667
             }
         },
         "small.json#10_coffee": {
