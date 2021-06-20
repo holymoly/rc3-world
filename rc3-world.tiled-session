@@ -24,11 +24,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1.5416,
-            "selectedLayer": 27,
+            "scale": 0.8295,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 591.593149974053,
-                "y": 14.270887389724976
+                "x": 578.6618444846292,
+                "y": 455.69620253164555
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -169,11 +169,11 @@
             "scaleInDock": 1
         },
         "small.json": {
-            "scale": 1.3046,
-            "selectedLayer": 20,
+            "scale": 1.6698,
+            "selectedLayer": 16,
             "viewCenter": {
-                "x": 1083.857120956615,
-                "y": 511.2678215544995
+                "x": 830.9378368666906,
+                "y": 214.99580788118337
             }
         },
         "small.json#10_coffee": {
