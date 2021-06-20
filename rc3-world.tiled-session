@@ -10,7 +10,7 @@
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 1,
             "scaleInEditor": 3
         },
         "Interiors_32x32.tsx": {
@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.7548,
-            "selectedLayer": 0,
+            "scale": 1.9191,
+            "selectedLayer": 25,
             "viewCenter": {
-                "x": 504.7694753577106,
-                "y": 894.2766295707472
+                "x": 185.50362148923975,
+                "y": 1064.040435620864
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -111,7 +111,7 @@
         },
         "medium.json": {
             "scale": 0.6861,
-            "selectedLayer": 13,
+            "selectedLayer": 6,
             "viewCenter": {
                 "x": 483.89447602390317,
                 "y": 376.03847835592467
@@ -160,15 +160,15 @@
             "scaleInDock": 1
         },
         "small.json": {
-            "scale": 1.4396,
+            "scale": 1.3046,
             "selectedLayer": 20,
             "viewCenter": {
-                "x": 1173.2425673798277,
-                "y": 184.0789108085579
+                "x": 1084.6236394297102,
+                "y": 512.0343400275947
             }
         },
         "small.json#10_coffee": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "small.json#23_tisch_weiss_1": {
@@ -180,6 +180,9 @@
         "small.json#65_tischdokumente_2": {
             "scaleInDock": 2
         },
+        "small.json#ZTL_Ordnungsamt": {
+            "scaleInDock": 1
+        },
         "small.json#broken_glass_1": {
             "scaleInDock": 2
         },
@@ -187,18 +190,18 @@
             "scaleInDock": 2
         },
         "small.json#mapUtilities": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "small.json#misc": {
-            "scaleInDock": 1.2978
+            "scaleInDock": 1.5
         },
         "small.json#misc_set": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 1
         },
         "small.json#rc3-mullana-colors-128": {
-            "scaleInDock": 1.5001
+            "scaleInDock": 1.5
         },
         "small.json#rc3-mullana-floor-wall": {
             "scaleInDock": 2,
@@ -216,17 +219,20 @@
         "small.json#rc3-mullana-overlay": {
             "scaleInDock": 1.305,
             "scaleInEditor": 1
+        },
+        "small.json#text": {
+            "scaleInDock": 1
         }
     },
     "frame.defaultDuration": 200,
-    "last.externalTilesetPath": "D:/Projekte/Space/rc3-world",
-    "last.imagePath": "D:/Projekte/Space/rc3-world/tiles_png/deco",
+    "last.externalTilesetPath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world",
+    "last.imagePath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world/tiles_png",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
     "openFiles": [
         "main.json"
     ],
     "project": "rc3-world.tiled-project",
-    "property.type": "string",
+    "property.type": "float",
     "recentFiles": [
         "medium.json",
         "main.json",
