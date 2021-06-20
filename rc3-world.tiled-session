@@ -1,13 +1,7 @@
 {
-    "Map/SizeTest": {
-        "height": 4300,
-        "width": 2
-    },
     "activeFile": "small.json",
-    "automapping.whileDrawing": true,
     "expandedProjectPaths": [
     ],
-    "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
             "scaleInDock": 1,
@@ -25,10 +19,10 @@
         },
         "main.json": {
             "scale": 0.8295,
-            "selectedLayer": 5,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 292.34478601567207,
-                "y": 928.2700421940929
+                "y": 927.0644966847499
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -233,23 +227,16 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 200,
-    "last.exportedFilePath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world",
-    "last.externalTilesetPath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world",
-    "last.imagePath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world/tiles_png",
-    "map.lastUsedExportFilter": "All Files (*)",
     "openFiles": [
         "main.json",
         "small.json",
         "medium.json"
     ],
     "project": "rc3-world.tiled-project",
-    "property.type": "float",
     "recentFiles": [
+        "small.json",
         "main.json",
         "medium.json",
-        "small.json",
         "Interiors_32x32.tsx"
-    ],
-    "tileset.embedInMap": true
+    ]
 }
