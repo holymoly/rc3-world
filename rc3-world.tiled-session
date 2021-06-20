@@ -163,11 +163,11 @@
             "scaleInDock": 1
         },
         "small.json": {
-            "scale": 0.9611,
-            "selectedLayer": 1,
+            "scale": 0.7305,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 826.6569555717408,
-                "y": 292.3733222349391
+                "x": 917.8644763860369,
+                "y": 390.1437371663244
             }
         },
         "small.json#10_coffee": {
@@ -234,9 +234,9 @@
     ],
     "project": "rc3-world.tiled-project",
     "recentFiles": [
-        "small.json",
         "main.json",
         "medium.json",
+        "small.json",
         "Interiors_32x32.tsx"
     ]
 }
