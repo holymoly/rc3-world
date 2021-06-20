@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "main.json",
+    "activeFile": "small.json",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
     ],
@@ -18,6 +18,9 @@
             "scaleInEditor": 1
         },
         "Room_Builder_32x32.tsx": {
+            "scaleInDock": 1
+        },
+        "ZTL_Ordnungsamt.tsx": {
             "scaleInDock": 1
         },
         "main.json": {
@@ -45,6 +48,9 @@
         "main.json#Room_Builder_32x32": {
             "scaleInDock": 0.75,
             "scaleInEditor": 2
+        },
+        "main.json#ZTL_Ordnungsamt": {
+            "scaleInDock": 1
         },
         "main.json#cija_32x32_expansion for Pipoya_CC0": {
             "scaleInDock": 1.2951,
@@ -120,6 +126,9 @@
         "medium.json#08_right_mate_bottles_flora_full": {
             "scaleInDock": 1
         },
+        "medium.json#ZTL_Ordnungsamt": {
+            "scaleInDock": 1
+        },
         "medium.json#cija_32x32_expansion for Pipoya_CC0": {
             "scaleInDock": 1
         },
@@ -163,8 +172,8 @@
             "scale": 1.3046,
             "selectedLayer": 20,
             "viewCenter": {
-                "x": 1084.6236394297102,
-                "y": 512.0343400275947
+                "x": 1083.857120956615,
+                "y": 511.2678215544995
             }
         },
         "small.json#10_coffee": {
@@ -181,7 +190,7 @@
             "scaleInDock": 2
         },
         "small.json#ZTL_Ordnungsamt": {
-            "scaleInDock": 1
+            "scaleInDock": 2.1305
         },
         "small.json#broken_glass_1": {
             "scaleInDock": 2
@@ -229,13 +238,15 @@
     "last.imagePath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world/tiles_png",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
     "openFiles": [
-        "main.json"
+        "main.json",
+        "small.json",
+        "medium.json"
     ],
     "project": "rc3-world.tiled-project",
     "property.type": "float",
     "recentFiles": [
-        "medium.json",
         "main.json",
+        "medium.json",
         "small.json",
         "Interiors_32x32.tsx"
     ],

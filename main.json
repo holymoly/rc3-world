@@ -520,7 +520,7 @@
  "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.7.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -27769,8 +27769,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":10219,
-         "source":"ZTL_Ordnungsamt.tsx"
+         "image":"tiles_png\/ordnungsamt.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"ZTL_Ordnungsamt",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
