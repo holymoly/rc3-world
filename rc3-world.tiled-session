@@ -100,7 +100,8 @@
             "scaleInDock": 1.2324
         },
         "main.json#rc3-mullana-objects": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#rc3_style_set": {
             "scaleInDock": 1
@@ -231,7 +232,7 @@
             "scaleInDock": 1
         }
     },
-    "frame.defaultDuration": 200,
+    "frame.defaultDuration": 1000,
     "last.externalTilesetPath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world",
     "last.imagePath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world/tiles_png",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
@@ -239,7 +240,7 @@
         "main.json"
     ],
     "project": "rc3-world.tiled-project",
-    "property.type": "float",
+    "property.type": "bool",
     "recentFiles": [
         "small.json",
         "ZTL_Ordnungsamt.tsx",
