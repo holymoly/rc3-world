@@ -25,10 +25,10 @@
         },
         "main.json": {
             "scale": 1.5416,
-            "selectedLayer": 25,
+            "selectedLayer": 27,
             "viewCenter": {
-                "x": 227.03684483653345,
-                "y": 1180.591593149974
+                "x": 591.593149974053,
+                "y": 14.270887389724976
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -234,9 +234,10 @@
         }
     },
     "frame.defaultDuration": 200,
+    "last.exportedFilePath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world",
     "last.externalTilesetPath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world",
     "last.imagePath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world/tiles_png",
-    "map.lastUsedExportFilter": "Alle Dateien (*)",
+    "map.lastUsedExportFilter": "All Files (*)",
     "openFiles": [
         "main.json",
         "small.json",
