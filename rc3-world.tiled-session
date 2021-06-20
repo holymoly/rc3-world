@@ -25,11 +25,11 @@
             "scaleInEditor": 1
         },
         "main.json": {
-            "scale": 3,
-            "selectedLayer": 12,
+            "scale": 0.75,
+            "selectedLayer": 23,
             "viewCenter": {
-                "x": 322.3333333333333,
-                "y": 1070.3333333333333
+                "x": 442.6666666666666,
+                "y": 473.33333333333337
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -47,7 +47,7 @@
             "scaleInDock": 1
         },
         "main.json#Room_Builder_32x32": {
-            "scaleInDock": 0.75,
+            "scaleInDock": 1.5,
             "scaleInEditor": 2
         },
         "main.json#ZTL_Ordnungsamt": {
@@ -114,7 +114,7 @@
             "scaleInDock": 1
         },
         "main.json#tilesets_deviant_milkian_1": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.75,
             "scaleInEditor": 2
         },
         "medium.json": {
@@ -233,6 +233,7 @@
         }
     },
     "frame.defaultDuration": 1000,
+    "last.exportedFilePath": "D:/Projekte/Space/world_backup",
     "last.externalTilesetPath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world",
     "last.imagePath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world/tiles_png",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
@@ -242,9 +243,9 @@
     "project": "rc3-world.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "main.json",
         "small.json",
         "ZTL_Ordnungsamt.tsx",
-        "main.json",
         "medium.json",
         "Interiors_32x32.tsx"
     ],
