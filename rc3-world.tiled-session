@@ -20,11 +20,14 @@
         "Room_Builder_32x32.tsx": {
             "scaleInDock": 1
         },
+        "ZTL_Ordnungsamt.tsx": {
+            "scaleInDock": 1
+        },
         "main.json": {
             "scale": 1.5416,
             "selectedLayer": 25,
             "viewCenter": {
-                "x": 227.03684483653345,
+                "x": 227.03684483653348,
                 "y": 1180.591593149974
             }
         },
@@ -45,6 +48,9 @@
         "main.json#Room_Builder_32x32": {
             "scaleInDock": 0.75,
             "scaleInEditor": 2
+        },
+        "main.json#ZTL_Ordnungsamt": {
+            "scaleInDock": 1
         },
         "main.json#cija_32x32_expansion for Pipoya_CC0": {
             "scaleInDock": 1.2951,
@@ -234,8 +240,8 @@
     "project": "rc3-world.tiled-project",
     "property.type": "float",
     "recentFiles": [
-        "medium.json",
         "main.json",
+        "medium.json",
         "small.json",
         "Interiors_32x32.tsx"
     ],
