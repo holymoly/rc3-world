@@ -25,11 +25,11 @@
             "scaleInEditor": 1
         },
         "main.json": {
-            "scale": 1.5416,
-            "selectedLayer": 25,
+            "scale": 3,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 480.020757654385,
-                "y": 420.9911779968863
+                "x": 322.3333333333333,
+                "y": 1070.3333333333333
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -168,10 +168,10 @@
         },
         "small.json": {
             "scale": 1.3046,
-            "selectedLayer": 20,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1084.6236394297102,
-                "y": 512.0343400275947
+                "x": 502.06959987735706,
+                "y": 209.25954315499
             }
         },
         "small.json#10_coffee": {
