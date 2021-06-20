@@ -21,11 +21,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 2,
-            "selectedLayer": 20,
+            "scale": 4,
+            "selectedLayer": 18,
             "viewCenter": {
-                "x": 801.25,
-                "y": 1043.75
+                "x": 1254.25,
+                "y": 238.5
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -91,6 +91,9 @@
         },
         "main.json#rc3-mullana-neon-signs": {
             "scaleInDock": 1.2324
+        },
+        "main.json#rc3-mullana-objects": {
+            "scaleInDock": 3
         },
         "main.json#rc3_style_set": {
             "scaleInDock": 1
