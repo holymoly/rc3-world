@@ -45,11 +45,6 @@
                  "value":true
                 }, 
                 {
-                 "name":"audioVolume",
-                 "type":"float",
-                 "value":0.5
-                }, 
-                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"\/mp3\/TunePocket-Soul-Jazz-Chillout-Loop-Preview.mp3"
