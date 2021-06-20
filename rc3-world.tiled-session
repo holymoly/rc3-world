@@ -167,11 +167,11 @@
             "scaleInDock": 1
         },
         "small.json": {
-            "scale": 1.3046,
+            "scale": 4,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 502.06959987735706,
-                "y": 209.25954315499
+                "x": 692.75,
+                "y": 280.5
             }
         },
         "small.json#10_coffee": {
@@ -241,10 +241,10 @@
     "project": "rc3-world.tiled-project",
     "property.type": "float",
     "recentFiles": [
+        "small.json",
         "ZTL_Ordnungsamt.tsx",
         "main.json",
         "medium.json",
-        "small.json",
         "Interiors_32x32.tsx"
     ],
     "tileset.embedInMap": true
