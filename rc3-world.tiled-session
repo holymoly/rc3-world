@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "small.json",
+    "activeFile": "main.json",
     "automapping.whileDrawing": true,
     "expandedProjectPaths": [
     ],
@@ -21,14 +21,15 @@
             "scaleInDock": 1
         },
         "ZTL_Ordnungsamt.tsx": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json": {
             "scale": 1.5416,
             "selectedLayer": 25,
             "viewCenter": {
-                "x": 227.03684483653348,
-                "y": 1180.591593149974
+                "x": 480.020757654385,
+                "y": 420.9911779968863
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -126,9 +127,6 @@
         "medium.json#08_right_mate_bottles_flora_full": {
             "scaleInDock": 1
         },
-        "medium.json#ZTL_Ordnungsamt": {
-            "scaleInDock": 1
-        },
         "medium.json#cija_32x32_expansion for Pipoya_CC0": {
             "scaleInDock": 1
         },
@@ -172,8 +170,8 @@
             "scale": 1.3046,
             "selectedLayer": 20,
             "viewCenter": {
-                "x": 1083.857120956615,
-                "y": 511.2678215544995
+                "x": 1084.6236394297102,
+                "y": 512.0343400275947
             }
         },
         "small.json#10_coffee": {
@@ -190,7 +188,7 @@
             "scaleInDock": 2
         },
         "small.json#ZTL_Ordnungsamt": {
-            "scaleInDock": 2.1305
+            "scaleInDock": 1
         },
         "small.json#broken_glass_1": {
             "scaleInDock": 2
@@ -238,13 +236,12 @@
     "last.imagePath": "/Users/thomas/Documents/CCC/ZTL/WORLD/rc3-world/tiles_png",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
     "openFiles": [
-        "main.json",
-        "small.json",
-        "medium.json"
+        "main.json"
     ],
     "project": "rc3-world.tiled-project",
     "property.type": "float",
     "recentFiles": [
+        "ZTL_Ordnungsamt.tsx",
         "main.json",
         "medium.json",
         "small.json",

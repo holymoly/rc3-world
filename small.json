@@ -52,7 +52,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"TunePocket-Soul-Jazz-Chillout-Loop-Preview.mp3"
+                 "value":"\/mp3\/TunePocket-Soul-Jazz-Chillout-Loop-Preview.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
