@@ -217,7 +217,7 @@
     },
     "frame.defaultDuration": 200,
     "last.externalTilesetPath": "D:/Projekte/Space/rc3-world",
-    "last.imagePath": "D:/Projekte/Space/rc3-world/tiles_png",
+    "last.imagePath": "D:/Projekte/Space/rc3-world/tiles_png/deco",
     "map.lastUsedExportFilter": "Alle Dateien (*)",
     "openFiles": [
         "main.json"
