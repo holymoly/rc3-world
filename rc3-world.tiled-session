@@ -25,10 +25,10 @@
         },
         "main.json": {
             "scale": 0.8295,
-            "selectedLayer": 3,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 578.6618444846292,
-                "y": 455.69620253164555
+                "x": 292.34478601567207,
+                "y": 928.2700421940929
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -119,8 +119,8 @@
             "scale": 0.6861,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 483.89447602390317,
-                "y": 376.03847835592467
+                "x": 464.2180440169072,
+                "y": 480.9794490599038
             }
         },
         "medium.json#08_right_mate_bottles_flora_full": {
@@ -169,11 +169,11 @@
             "scaleInDock": 1
         },
         "small.json": {
-            "scale": 1.6698,
-            "selectedLayer": 16,
+            "scale": 0.9611,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 830.9378368666906,
-                "y": 214.99580788118337
+                "x": 826.6569555717408,
+                "y": 292.3733222349391
             }
         },
         "small.json#10_coffee": {
@@ -217,13 +217,13 @@
             "scaleInEditor": 1
         },
         "small.json#rc3-mullana-functionary": {
-            "scaleInDock": 2
+            "scaleInDock": 0.7999
         },
         "small.json#rc3-mullana-neon-signs": {
             "scaleInDock": 2
         },
         "small.json#rc3-mullana-objects": {
-            "scaleInDock": 2
+            "scaleInDock": 1.7611
         },
         "small.json#rc3-mullana-overlay": {
             "scaleInDock": 1.305,
