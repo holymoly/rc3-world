@@ -1,11 +1,11 @@
 {
-    "activeFile": "small.json",
+    "activeFile": "main.json",
     "expandedProjectPaths": [
     ],
     "fileStates": {
         "": {
             "scaleInDock": 1,
-            "scaleInEditor": 3
+            "scaleInEditor": 2
         },
         "Interiors_32x32.tsx": {
             "scaleInDock": 0.75,
@@ -18,11 +18,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 0.8295,
-            "selectedLayer": 3,
+            "scale": 2,
+            "selectedLayer": 42,
             "viewCenter": {
-                "x": 292.34478601567207,
-                "y": 927.0644966847499
+                "x": 623.25,
+                "y": 122.25
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -113,8 +113,8 @@
             "scale": 0.6861,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 464.2180440169072,
-                "y": 480.9794490599038
+                "x": 465.67555749890687,
+                "y": 481.7082058009036
             }
         },
         "medium.json#08_right_mate_bottles_flora_full": {
@@ -166,8 +166,8 @@
             "scale": 0.7305,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 917.8644763860369,
-                "y": 390.1437371663244
+                "x": 917.864476386037,
+                "y": 390.82819986310744
             }
         },
         "small.json#10_coffee": {
@@ -228,9 +228,7 @@
         }
     },
     "openFiles": [
-        "main.json",
-        "small.json",
-        "medium.json"
+        "main.json"
     ],
     "project": "rc3-world.tiled-project",
     "recentFiles": [
