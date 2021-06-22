@@ -19,10 +19,10 @@
         },
         "main.json": {
             "scale": 2,
-            "selectedLayer": 42,
+            "selectedLayer": 20,
             "viewCenter": {
-                "x": 623.25,
-                "y": 122.25
+                "x": 1009.75,
+                "y": 250.75
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -231,6 +231,7 @@
         "main.json"
     ],
     "project": "rc3-world.tiled-project",
+    "property.type": "bool",
     "recentFiles": [
         "main.json",
         "medium.json",
