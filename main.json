@@ -176,7 +176,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/w1xYBDroWr0"
+                 "value":"https:\/\/www.youtube.com\/embed\/w1xYBDroWr0?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
