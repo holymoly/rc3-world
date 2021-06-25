@@ -18,11 +18,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 5.5,
-            "selectedLayer": 37,
+            "scale": 2.02,
+            "selectedLayer": 39,
             "viewCenter": {
-                "x": 1163.6363636363637,
-                "y": 309.27272727272725
+                "x": 218.8118811881188,
+                "y": 1093.069306930693
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -44,7 +44,8 @@
             "scaleInEditor": 2
         },
         "main.json#ZTL_Ordnungsamt": {
-            "scaleInDock": 1
+            "scaleInDock": 0.8382,
+            "scaleInEditor": 1
         },
         "main.json#cija_32x32_expansion for Pipoya_CC0": {
             "scaleInDock": 1.2951,
@@ -163,15 +164,15 @@
             "scaleInDock": 1
         },
         "small.json": {
-            "scale": 0.7305,
-            "selectedLayer": 0,
+            "scale": 1.3711,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 917.864476386037,
-                "y": 390.82819986310744
+                "x": 1067.7558164977027,
+                "y": 210.77966596163662
             }
         },
         "small.json#10_coffee": {
-            "scaleInDock": 1.5,
+            "scaleInDock": 4.7224,
             "scaleInEditor": 1
         },
         "small.json#23_tisch_weiss_1": {
@@ -227,6 +228,7 @@
             "scaleInDock": 1
         }
     },
+    "frame.defaultDuration": 200,
     "openFiles": [
         "main.json"
     ],
