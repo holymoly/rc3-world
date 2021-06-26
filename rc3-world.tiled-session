@@ -1,7 +1,12 @@
 {
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
     "activeFile": "main.json",
     "expandedProjectPaths": [
     ],
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "": {
             "scaleInDock": 1,
@@ -17,12 +22,80 @@
         "ZTL_Ordnungsamt.tsx": {
             "scaleInDock": 1
         },
-        "main.json": {
-            "scale": 0.5346,
+        "big.json": {
+            "scale": 0.5361562499999999,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 690.2356902356903,
-                "y": 828.6569397680511
+                "x": 800.1398845952092,
+                "y": 800.1398845952092
+            }
+        },
+        "big.json#01_fire_extinguisher": {
+            "scaleInDock": 1
+        },
+        "big.json#05_mate_bottles_full": {
+            "scaleInDock": 1
+        },
+        "big.json#07_right_mate_bottles_flora": {
+            "scaleInDock": 1
+        },
+        "big.json#11_coffee2": {
+            "scaleInDock": 1
+        },
+        "big.json#13_stone_tile_hatch": {
+            "scaleInDock": 1
+        },
+        "big.json#13_winkekatze": {
+            "scaleInDock": 1
+        },
+        "big.json#AceSet-Hospital": {
+            "scaleInDock": 1
+        },
+        "big.json#dk_lines": {
+            "scaleInDock": 1
+        },
+        "big.json#fairydust": {
+            "scaleInDock": 1
+        },
+        "big.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "big.json#minideko": {
+            "scaleInDock": 1
+        },
+        "big.json#misc": {
+            "scaleInDock": 1
+        },
+        "big.json#rc3": {
+            "scaleInDock": 1
+        },
+        "big.json#rc3-mullana-colors-128": {
+            "scaleInDock": 1
+        },
+        "big.json#rc3-mullana-floor-wall": {
+            "scaleInDock": 1
+        },
+        "big.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "big.json#rc3-mullana-neon-signs": {
+            "scaleInDock": 1
+        },
+        "big.json#rc3-mullana-overlay": {
+            "scaleInDock": 1
+        },
+        "big.json#testing_set": {
+            "scaleInDock": 1
+        },
+        "big.json#text": {
+            "scaleInDock": 1
+        },
+        "main.json": {
+            "scale": 1.2948,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 288.0753784368242,
+                "y": 1008.6499845535991
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -111,11 +184,11 @@
             "scaleInEditor": 2
         },
         "medium.json": {
-            "scale": 0.6861,
-            "selectedLayer": 6,
+            "scale": 1.0437,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 465.67555749890687,
-                "y": 481.7082058009036
+                "x": 454.15349238286865,
+                "y": 482.89738430583503
             }
         },
         "medium.json#08_right_mate_bottles_flora_full": {
@@ -165,10 +238,10 @@
         },
         "small.json": {
             "scale": 1.4693,
-            "selectedLayer": 18,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 1025.6584768256994,
-                "y": 362.75777581161094
+                "x": 1153.6105628530593,
+                "y": 364.1189682161573
             }
         },
         "small.json#10_coffee": {
@@ -194,7 +267,7 @@
             "scaleInDock": 2
         },
         "small.json#mapUtilities": {
-            "scaleInDock": 1.5,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "small.json#misc": {
@@ -226,15 +299,31 @@
         },
         "small.json#text": {
             "scaleInDock": 1
+        },
+        "stairs.json": {
+            "scale": 2.3935,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 154.16753707959055,
+                "y": 167.11928138709004
+            }
+        },
+        "stairs.json#mapUtilities": {
+            "scaleInDock": 1
         }
     },
     "frame.defaultDuration": 200,
+    "map.height": 10,
+    "map.lastUsedFormat": "json",
+    "map.width": 10,
     "openFiles": [
         "main.json"
     ],
     "project": "rc3-world.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
+        "stairs.json",
+        "big.json",
         "main.json",
         "medium.json",
         "small.json",
