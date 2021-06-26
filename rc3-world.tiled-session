@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "small.json",
+    "activeFile": "medium.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -302,7 +302,7 @@
         },
         "stairs.json": {
             "scale": 1.0411,
-            "selectedLayer": 3,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 547.9781000864471,
                 "y": 238.20958601479202
@@ -322,7 +322,7 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 620.3489863997947,
-                "y": 402.8740056453683
+                "y": 404.1570438799077
             }
         },
         "stairs2.json#ZTL_Ordnungsamt": {
@@ -350,10 +350,10 @@
     "property.type": "string",
     "recentFiles": [
         "main.json",
-        "medium.json",
-        "stairs2.json",
-        "stairs.json",
         "small.json",
+        "stairs.json",
+        "stairs2.json",
+        "medium.json",
         "big.json",
         "Interiors_32x32.tsx"
     ]
