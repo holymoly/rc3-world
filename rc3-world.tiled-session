@@ -238,7 +238,7 @@
         },
         "small.json": {
             "scale": 1.4693,
-            "selectedLayer": 7,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 1153.6105628530593,
                 "y": 364.1189682161573
@@ -302,13 +302,27 @@
         },
         "stairs.json": {
             "scale": 2.3935,
-            "selectedLayer": 2,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 154.16753707959055,
                 "y": 167.11928138709004
             }
         },
         "stairs.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "stairs2.json": {
+            "scale": 2.4370738636363636,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 144.0251792271376,
+                "y": 160.02797691904178
+            }
+        },
+        "stairs2.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "stairs2.json#rc3-mullana-floor-wall": {
             "scaleInDock": 1
         }
     },

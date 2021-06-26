@@ -155,7 +155,7 @@
                  "value":"stairs.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":43,
          "x":0,
          "y":0
