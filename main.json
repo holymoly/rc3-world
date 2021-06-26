@@ -28219,19 +28219,7 @@
                          "duration":200,
                          "tileid":204
                         }],
-                 "id":0
-                }, 
-                {
-                 "animation":[
-                        {
-                         "duration":1000,
-                         "tileid":203
-                        }, 
-                        {
-                         "duration":200,
-                         "tileid":204
-                        }],
-                 "id":105
+                 "id":204
                 }],
          "tilewidth":32
         }],

@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "medium.json",
+    "activeFile": "main.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -91,11 +91,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1.2948,
+            "scale": 1.23,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 719.4161260426322,
-                "y": 763.0522088353414
+                "x": 1217.479674796748,
+                "y": 1186.9918699186992
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -322,7 +322,7 @@
             "selectedLayer": 3,
             "viewCenter": {
                 "x": 620.3489863997947,
-                "y": 404.1570438799077
+                "y": 405.4400821144471
             }
         },
         "stairs2.json#ZTL_Ordnungsamt": {
@@ -349,11 +349,11 @@
     "project": "rc3-world.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "main.json",
-        "small.json",
-        "stairs.json",
-        "stairs2.json",
         "medium.json",
+        "stairs2.json",
+        "stairs.json",
+        "small.json",
+        "main.json",
         "big.json",
         "Interiors_32x32.tsx"
     ]
