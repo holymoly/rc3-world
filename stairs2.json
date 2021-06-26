@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"stairs.json"
+                 "value":"stairs.json#backStart"
                 }],
          "type":"tilelayer",
          "visible":true,
