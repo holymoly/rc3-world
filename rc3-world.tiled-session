@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "main.json",
+    "activeFile": "stairs.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -185,7 +185,7 @@
         },
         "medium.json": {
             "scale": 1.0437,
-            "selectedLayer": 1,
+            "selectedLayer": 3,
             "viewCenter": {
                 "x": 454.15349238286865,
                 "y": 482.89738430583503
@@ -238,7 +238,7 @@
         },
         "small.json": {
             "scale": 1.4693,
-            "selectedLayer": 8,
+            "selectedLayer": 12,
             "viewCenter": {
                 "x": 1153.6105628530593,
                 "y": 364.1189682161573
@@ -281,7 +281,7 @@
             "scaleInDock": 1.5
         },
         "small.json#rc3-mullana-floor-wall": {
-            "scaleInDock": 2,
+            "scaleInDock": 2.4411,
             "scaleInEditor": 1
         },
         "small.json#rc3-mullana-functionary": {
@@ -301,23 +301,29 @@
             "scaleInDock": 1
         },
         "stairs.json": {
-            "scale": 2.3935,
-            "selectedLayer": 3,
+            "scale": 1.0411,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 154.16753707959055,
-                "y": 167.11928138709004
+                "x": 547.9781000864471,
+                "y": 238.20958601479202
             }
+        },
+        "stairs.json#ZTL_Ordnungsamt": {
+            "scaleInDock": 1
         },
         "stairs.json#mapUtilities": {
             "scaleInDock": 1
         },
         "stairs2.json": {
-            "scale": 2.4370738636363636,
-            "selectedLayer": 3,
+            "scale": 0.7794,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 144.0251792271376,
-                "y": 160.02797691904178
+                "x": 620.9905055170644,
+                "y": 402.87400564536824
             }
+        },
+        "stairs2.json#ZTL_Ordnungsamt": {
+            "scaleInDock": 1
         },
         "stairs2.json#mapUtilities": {
             "scaleInDock": 1
@@ -331,16 +337,21 @@
     "map.lastUsedFormat": "json",
     "map.width": 10,
     "openFiles": [
-        "main.json"
+        "main.json",
+        "small.json",
+        "stairs.json",
+        "stairs2.json",
+        "medium.json"
     ],
     "project": "rc3-world.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "main.json",
+        "small.json",
+        "medium.json",
+        "stairs2.json",
         "stairs.json",
         "big.json",
-        "main.json",
-        "medium.json",
-        "small.json",
         "Interiors_32x32.tsx"
     ]
 }

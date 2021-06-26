@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"stairs.json#Backstart"
+                 "value":"stairs2.json#Backstart"
                 }],
          "type":"tilelayer",
          "visible":true,
