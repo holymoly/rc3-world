@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "main.json",
+    "activeFile": "stairs.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
@@ -92,10 +92,10 @@
         },
         "main.json": {
             "scale": 1.23,
-            "selectedLayer": 1,
+            "selectedLayer": 40,
             "viewCenter": {
-                "x": 1217.479674796748,
-                "y": 1186.9918699186992
+                "x": 409.349593495935,
+                "y": 300.8130081300813
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -187,8 +187,8 @@
             "scale": 1.0437,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 453.6744275174858,
-                "y": 482.897384305835
+                "x": 463.25572482514133,
+                "y": 479.06486538277284
             }
         },
         "medium.json#08_right_mate_bottles_flora_full": {
@@ -321,8 +321,8 @@
             "scale": 0.7794,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 620.3489863997947,
-                "y": 405.4400821144471
+                "x": 465.10136002052855,
+                "y": 320.7595586348473
             }
         },
         "stairs2.json#ZTL_Ordnungsamt": {
@@ -340,8 +340,6 @@
     "map.lastUsedFormat": "json",
     "map.width": 10,
     "openFiles": [
-        "main.json",
-        "small.json",
         "stairs.json",
         "stairs2.json",
         "medium.json"
