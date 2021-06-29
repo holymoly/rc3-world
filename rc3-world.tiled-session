@@ -91,11 +91,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1.23,
-            "selectedLayer": 40,
+            "scale": 4,
+            "selectedLayer": 38,
             "viewCenter": {
-                "x": 409.349593495935,
-                "y": 300.8130081300813
+                "x": 559.5,
+                "y": 1404.25
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -347,11 +347,11 @@
     "project": "rc3-world.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "main.json",
         "stairs2.json",
         "stairs.json",
         "medium.json",
         "small.json",
-        "main.json",
         "big.json",
         "Interiors_32x32.tsx"
     ]
