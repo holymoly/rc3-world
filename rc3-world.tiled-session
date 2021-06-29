@@ -6,7 +6,7 @@
     "activeFile": "stairs.json",
     "expandedProjectPaths": [
     ],
-    "file.lastUsedOpenFilter": "All Files (*)",
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
         "": {
             "scaleInDock": 1,
@@ -187,8 +187,8 @@
             "scale": 1.0437,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 463.25572482514133,
-                "y": 479.06486538277284
+                "x": 463.73478969052405,
+                "y": 480.0229951135384
             }
         },
         "medium.json#08_right_mate_bottles_flora_full": {
@@ -304,8 +304,8 @@
             "scale": 1.0411,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 547.9781000864471,
-                "y": 238.20958601479202
+                "x": 548.4583613485736,
+                "y": 238.20958601479208
             }
         },
         "stairs.json#ZTL_Ordnungsamt": {
@@ -321,7 +321,7 @@
             "scale": 0.7794,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 465.10136002052855,
+                "x": 465.74287913779835,
                 "y": 320.7595586348473
             }
         },
@@ -347,9 +347,9 @@
     "project": "rc3-world.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "medium.json",
         "stairs2.json",
         "stairs.json",
+        "medium.json",
         "small.json",
         "main.json",
         "big.json",
