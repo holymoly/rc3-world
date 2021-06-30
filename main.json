@@ -213,6 +213,12 @@
          "id":54,
          "name":"jitsi_draussen",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"draussen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":45,
