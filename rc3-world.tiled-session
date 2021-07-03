@@ -187,8 +187,8 @@
             "scale": 1.0437,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 463.73478969052405,
-                "y": 480.0229951135384
+                "x": 463.25572482514133,
+                "y": 479.06486538277284
             }
         },
         "medium.json#08_right_mate_bottles_flora_full": {
@@ -304,8 +304,8 @@
             "scale": 1.0411,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 548.4583613485736,
-                "y": 238.20958601479208
+                "x": 547.9781000864471,
+                "y": 238.68984727691864
             }
         },
         "stairs.json#ZTL_Ordnungsamt": {
@@ -321,8 +321,8 @@
             "scale": 0.7794,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 465.74287913779835,
-                "y": 320.7595586348473
+                "x": 463.81832178598927,
+                "y": 320.75955863484734
             }
         },
         "stairs2.json#ZTL_Ordnungsamt": {
