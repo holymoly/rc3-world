@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "stairs.json",
+    "activeFile": "main.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -92,10 +92,10 @@
         },
         "main.json": {
             "scale": 4,
-            "selectedLayer": 38,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 559.5,
-                "y": 1404.25
+                "x": 533.25,
+                "y": 1424.5
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -187,7 +187,7 @@
             "scale": 1.0437,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 463.25572482514133,
+                "x": 463.73478969052405,
                 "y": 479.06486538277284
             }
         },
@@ -304,8 +304,8 @@
             "scale": 1.0411,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 547.9781000864471,
-                "y": 238.68984727691864
+                "x": 548.4583613485736,
+                "y": 239.17010853904523
             }
         },
         "stairs.json#ZTL_Ordnungsamt": {
@@ -321,7 +321,7 @@
             "scale": 0.7794,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 463.81832178598927,
+                "x": 464.45984090325896,
                 "y": 320.75955863484734
             }
         },
@@ -340,17 +340,16 @@
     "map.lastUsedFormat": "json",
     "map.width": 10,
     "openFiles": [
-        "stairs.json",
-        "stairs2.json",
-        "medium.json"
+        "medium.json",
+        "main.json"
     ],
     "project": "rc3-world.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "medium.json",
         "main.json",
         "stairs2.json",
         "stairs.json",
-        "medium.json",
         "small.json",
         "big.json",
         "Interiors_32x32.tsx"
