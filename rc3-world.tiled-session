@@ -91,11 +91,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 4,
-            "selectedLayer": 12,
+            "scale": 1,
+            "selectedLayer": 41,
             "viewCenter": {
-                "x": 533.25,
-                "y": 1424.5
+                "x": 511,
+                "y": 758
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -187,8 +187,8 @@
             "scale": 1.0437,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 463.73478969052405,
-                "y": 479.06486538277284
+                "x": 463.7347896905241,
+                "y": 479.0648653827728
             }
         },
         "medium.json#08_right_mate_bottles_flora_full": {
