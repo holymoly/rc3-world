@@ -91,11 +91,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1,
-            "selectedLayer": 41,
+            "scale": 1.5,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 511,
-                "y": 758
+                "x": 587.3333333333333,
+                "y": 383.3333333333333
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -185,7 +185,7 @@
         },
         "medium.json": {
             "scale": 1.0437,
-            "selectedLayer": 3,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 463.7347896905241,
                 "y": 479.0648653827728
@@ -237,11 +237,11 @@
             "scaleInDock": 1
         },
         "small.json": {
-            "scale": 1.4693,
-            "selectedLayer": 12,
+            "scale": 2,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1153.2702647519227,
-                "y": 364.1189682161573
+                "x": 679,
+                "y": 357
             }
         },
         "small.json#10_coffee": {
@@ -341,16 +341,17 @@
     "map.width": 10,
     "openFiles": [
         "medium.json",
-        "main.json"
+        "main.json",
+        "small.json"
     ],
     "project": "rc3-world.tiled-project",
     "property.type": "string",
     "recentFiles": [
         "medium.json",
+        "small.json",
         "main.json",
         "stairs2.json",
         "stairs.json",
-        "small.json",
         "big.json",
         "Interiors_32x32.tsx"
     ]

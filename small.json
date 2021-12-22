@@ -378,8 +378,14 @@
  "nextlayerid":34,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"\"jazzFlipper.mp3\" by schmo-fu; pop-test by waldo; TunePocket-Soul-Jazz-Chillout-Loop-Preview from https:\/\/www.tunepocket.com\/royalty-free-music\/soul-jazz-chillout-loop\/"
+        }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
