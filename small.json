@@ -29,7 +29,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/mp3\/pop-test.mp3"
+                 "value":"world:\/\/mp3\/pop-test.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -52,7 +52,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/mp3\/timbregirlelevator.mp3"
+                 "value":"world:\/\/mp3\/timbregirlelevator.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -75,7 +75,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/mp3\/jazzflipper.mp3"
+                 "value":"world:\/\/mp3\/jazzflipper.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -98,7 +98,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/mp3\/ne.mp3"
+                 "value":"world:\/\/mp3\/ne.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
