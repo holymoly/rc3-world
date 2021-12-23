@@ -92,14 +92,15 @@
         },
         "main.json": {
             "scale": 1.5,
-            "selectedLayer": 9,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 587.3333333333333,
-                "y": 383.3333333333333
+                "x": 261.33333333333326,
+                "y": 1279.3333333333333
             }
         },
         "main.json#03_latop_sticker_32x32t": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#AceSet-Hospital": {
             "scaleInDock": 1,
@@ -125,7 +126,8 @@
             "scaleInEditor": 4
         },
         "main.json#cija_32x32_screen_CC0": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#dk_garden": {
             "scaleInDock": 1
@@ -134,7 +136,8 @@
             "scaleInDock": 1
         },
         "main.json#dk_transports": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#gallery_delorean_dmc12": {
             "scaleInDock": 1,
@@ -148,10 +151,12 @@
             "scaleInEditor": 5.5
         },
         "main.json#mapUtilities": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#minideko": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#official_rockets": {
             "scaleInDock": 1,
@@ -161,23 +166,28 @@
             "scaleInDock": 1
         },
         "main.json#rc3-mullana-functionary": {
-            "scaleInDock": 0.9315
+            "scaleInDock": 0.9315,
+            "scaleInEditor": 1
         },
         "main.json#rc3-mullana-neon-signs": {
-            "scaleInDock": 1.2324
+            "scaleInDock": 1.2324,
+            "scaleInEditor": 1
         },
         "main.json#rc3-mullana-objects": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#rc3_style_set": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#space": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "main.json#text": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "main.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1,
@@ -240,8 +250,8 @@
             "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 679,
-                "y": 357
+                "x": 672,
+                "y": 368
             }
         },
         "small.json#10_coffee": {
@@ -341,8 +351,8 @@
     "map.width": 10,
     "openFiles": [
         "medium.json",
-        "main.json",
-        "small.json"
+        "small.json",
+        "main.json"
     ],
     "project": "rc3-world.tiled-project",
     "property.type": "string",
