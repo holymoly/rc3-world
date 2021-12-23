@@ -964,6 +964,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RC3"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1374,6 +1380,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RC3"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
