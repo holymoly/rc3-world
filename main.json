@@ -864,7 +864,7 @@
          "value":"free"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -12435,12 +12435,6 @@
          "imagewidth":256,
          "margin":0,
          "name":"kaktus",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"Free"
-                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -28162,6 +28156,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":45
 }
