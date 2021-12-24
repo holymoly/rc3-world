@@ -10,7 +10,7 @@
     "fileStates": {
         "": {
             "scaleInDock": 1,
-            "scaleInEditor": 2
+            "scaleInEditor": 1
         },
         "Interiors_32x32.tsx": {
             "scaleInDock": 0.75,
@@ -91,11 +91,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1.5,
-            "selectedLayer": 0,
+            "scale": 1,
+            "selectedLayer": 42,
             "viewCenter": {
-                "x": 261.33333333333326,
-                "y": 1279.3333333333333
+                "x": 603,
+                "y": 813
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -197,8 +197,8 @@
             "scale": 1.0437,
             "selectedLayer": 8,
             "viewCenter": {
-                "x": 463.7347896905241,
-                "y": 479.0648653827728
+                "x": 464.69291942128973,
+                "y": 479.06486538277284
             }
         },
         "medium.json#08_right_mate_bottles_flora_full": {
@@ -247,11 +247,11 @@
             "scaleInDock": 1
         },
         "small.json": {
-            "scale": 2,
+            "scale": 1,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 672,
-                "y": 368
+                "x": 667,
+                "y": 633
             }
         },
         "small.json#10_coffee": {
@@ -277,6 +277,10 @@
             "scaleInDock": 2
         },
         "small.json#mapUtilities": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "small.json#mapUtilities_02": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
@@ -346,6 +350,7 @@
         }
     },
     "frame.defaultDuration": 200,
+    "last.externalTilesetPath": "D:/Projekte/Space/rc3-world/tiles_png/community/cert/imgs/tilesheets",
     "map.height": 10,
     "map.lastUsedFormat": "json",
     "map.width": 10,
@@ -357,12 +362,13 @@
     "project": "rc3-world.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "medium.json",
-        "small.json",
         "main.json",
+        "small.json",
+        "medium.json",
         "stairs2.json",
         "stairs.json",
         "big.json",
         "Interiors_32x32.tsx"
-    ]
+    ],
+    "tileset.lastUsedFilter": "Alle Dateien (*)"
 }
