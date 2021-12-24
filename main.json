@@ -679,6 +679,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ztl.space\/mitglied-werden\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -697,6 +702,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ztl.space\/eroeffnung-2021\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -715,6 +725,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/ztl.space\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
