@@ -184,22 +184,10 @@
          "tiles":[
                 {
                  "id":0,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"foo.json#bar"
-                        }],
                  "type":"EXIT"
                 }, 
                 {
                  "id":1,
-                 "properties":[
-                        {
-                         "name":"startLayer",
-                         "type":"bool",
-                         "value":true
-                        }],
                  "type":"START"
                 }, 
                 {
@@ -252,11 +240,6 @@
                 {
                  "id":4,
                  "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
                  "type":"SILENT"
                 }, 
                 {
@@ -273,12 +256,6 @@
                 }, 
                 {
                  "id":8,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/"
-                        }],
                  "type":"URL"
                 }],
          "tilewidth":32
