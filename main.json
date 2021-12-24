@@ -12435,6 +12435,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"kaktus",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RC3"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -12524,40 +12530,16 @@
                  "id":22
                 },
                 {
-                 "id":24,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright ",
-                         "type":"string",
-                         "value":"free"
-                        }]
+                 "id":24
                 },
                 {
-                 "id":25,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright ",
-                         "type":"string",
-                         "value":"free"
-                        }]
+                 "id":25
                 },
                 {
-                 "id":26,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright ",
-                         "type":"string",
-                         "value":"free"
-                        }]
+                 "id":26
                 },
                 {
-                 "id":27,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright ",
-                         "type":"string",
-                         "value":"free"
-                        }]
+                 "id":27
                 },
                 {
                  "id":52,
