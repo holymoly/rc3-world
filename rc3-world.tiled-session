@@ -94,8 +94,8 @@
             "scale": 1,
             "selectedLayer": 42,
             "viewCenter": {
-                "x": 603,
-                "y": 813
+                "x": 602,
+                "y": 812
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -248,10 +248,10 @@
         },
         "small.json": {
             "scale": 3,
-            "selectedLayer": 7,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 1299.3333333333333,
-                "y": 231.33333333333334
+                "x": 211.33333333333334,
+                "y": 108.33333333333333
             }
         },
         "small.json#10_coffee": {
@@ -277,7 +277,7 @@
             "scaleInDock": 2
         },
         "small.json#mapUtilities": {
-            "scaleInDock": 1,
+            "scaleInDock": 3,
             "scaleInEditor": 1
         },
         "small.json#mapUtilities_02": {
@@ -362,9 +362,9 @@
     "project": "rc3-world.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "medium.json",
-        "main.json",
         "small.json",
+        "main.json",
+        "medium.json",
         "stairs2.json",
         "stairs.json",
         "big.json",
