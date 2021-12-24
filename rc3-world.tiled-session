@@ -91,11 +91,11 @@
             "scaleInDock": 1
         },
         "main.json": {
-            "scale": 1,
-            "selectedLayer": 42,
+            "scale": 2,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 602,
-                "y": 812
+                "x": 954.5,
+                "y": 754
             }
         },
         "main.json#03_latop_sticker_32x32t": {
@@ -122,7 +122,7 @@
             "scaleInEditor": 1
         },
         "main.json#cija_32x32_expansion for Pipoya_CC0": {
-            "scaleInDock": 1.2951,
+            "scaleInDock": 1.5,
             "scaleInEditor": 4
         },
         "main.json#cija_32x32_screen_CC0": {
@@ -247,11 +247,11 @@
             "scaleInDock": 1
         },
         "small.json": {
-            "scale": 3,
-            "selectedLayer": 10,
+            "scale": 0.75,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 211.33333333333334,
-                "y": 108.33333333333333
+                "x": 752,
+                "y": 379.9999999999999
             }
         },
         "small.json#10_coffee": {
