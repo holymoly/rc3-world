@@ -648,7 +648,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby"
+                 "value":"world:\/\/lobby\/pcb.json#start_ztl"
                 }],
          "type":"tilelayer",
          "visible":true,
