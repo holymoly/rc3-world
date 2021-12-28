@@ -92,10 +92,10 @@
         },
         "main.json": {
             "scale": 1.5,
-            "selectedLayer": 38,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 1050.3333333333333,
-                "y": 333.3333333333333
+                "x": 1035.6666666666665,
+                "y": 459.3333333333333
             }
         },
         "main.json#03_latop_sticker_32x32t": {
